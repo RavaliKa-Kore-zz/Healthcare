@@ -1,0 +1,28 @@
+[
+    {
+    "country":"India",
+    "currency":"INR"
+},
+ {
+    "country":"Pakistan",
+    "currency":"PKR"
+},
+ {
+    "country":"Philippine",
+    "currency":"PHP"
+},
+ {
+    "country":"Srilanka",
+    "currency":"LKR"
+},
+ {
+    "country":"Bangladesh",
+    "currency":"BDT"
+}, {
+    "country":"Nepal",
+    "currency":"NPR"
+},
+ {
+    "country":"Indonesia",
+    "currency":"IDR"
+}]
